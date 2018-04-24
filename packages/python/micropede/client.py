@@ -99,7 +99,7 @@ class MicropedeClient(Topics):
     """
        Python based client for Micropede Application Framework
        Used with the following broker:
-       https://github.com/sci-bots/microdrop-3.0/blob/master/MoscaServer.js
+       https://github.com/The-Brainery/SciCAD/blob/master/MoscaServer.js
     """
 
     def __init__(self, app_name, host="localhost", port=None, name=None,
