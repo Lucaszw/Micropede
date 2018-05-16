@@ -10,8 +10,8 @@
     "Micropede",
     "Mixins"
   ],
-  "author": "Sci-Bots",
-  "license": "BSD-2-Clause",
+  "author": "The Brainery & Sci-Bots",
+  "license": "MIT & BSD-2-Clause",
   "publishConfig": {
     "access": "public"
   }

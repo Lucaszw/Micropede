@@ -13,8 +13,8 @@
     "Sample",
     "Webapp"
   ],
-  "author": "Sci-Bots",
-  "license": "BSD-2-Clause",
+  "author": "The Brainery & Sci-Bots",
+  "license": "MIT & BSD-2-Clause",
   "devDependencies": {
     "electron": "^1.7.10",
     "webpack": "^3.10.0"

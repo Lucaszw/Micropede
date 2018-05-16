@@ -24,8 +24,8 @@
     "route-recognizer": "^0.3.3",
     "uuid": "^3.2.1"
   },
-  "author": "Sci-Bots",
-  "license": "BSD-2-Clause",
+  "author": "The Brainery & Sci-Bots",
+  "license": "MIT & BSD-2-Clause",
   "publishConfig": {
     "access": "public"
   }
