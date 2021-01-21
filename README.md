@@ -13,7 +13,7 @@ Applications include:
 Installation:
 
 ```bash
-  git clone https://github.com/sci-bots/Micropede.git
+  git clone https://github.com/lucaszw/Micropede.git
   npm install --global electron lerna
   npm run boostrap
   # to see a sample run: npm run start
